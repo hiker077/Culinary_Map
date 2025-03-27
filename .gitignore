@@ -1,2 +1,4 @@
 .env
 .env.share
+src/draft.ipynb
+log/*

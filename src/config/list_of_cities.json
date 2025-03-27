@@ -1,0 +1,39 @@
+{
+    "District": [
+      "Greater Poland",
+      "Kuyavia-Pomerania",
+      "Lesser Poland",
+      "Łódź",
+      "Lower Silesia",
+      "Lublin",
+      "Lubusz",
+      "Masovia",
+      "Opole",
+      "Podlaskie",
+      "Pomerania",
+      "Silesia",
+      "Subcarpathia",
+      "Świętokrzyskie",
+      "Warmia-Masuria",
+      "West Pomerania"
+    ],
+    "City": [
+      ["Poznań", "Kalisz", "Konin"],
+      ["Bydgoszcz", "Toruń", "Włocławek"],
+      ["Kraków", "Tarnów", "Nowy Sącz"],
+      ["Łódź", "Piotrków Trybunalski", "Pabianice"],
+      ["Wrocław", "Wałbrzych", "Legnica"],
+      ["Lublin", "Chełm", "Zamość"],
+      ["Zielona Góra", "Gorzów Wielkopolski", "Nowa Sól"],
+      ["Warsaw", "Radom", "Płock"],
+      ["Opole", "Kędzierzyn-Koźle", "Nysa"],
+      ["Białystok", "Łomża", "Suwałki"],
+      ["Gdańsk", "Gdynia", "Sopot"],
+      ["Katowice", "Częstochowa", "Gliwice"],
+      ["Rzeszów", "Przemyśl", "Stalowa Wola"],
+      ["Kielce", "Ostrowiec Świętokrzyski", "Starachowice"],
+      ["Olsztyn", "Elbląg", "Ełk"],
+      ["Szczecin", "Koszalin", "Stargard"]
+    ]
+  }
+  
